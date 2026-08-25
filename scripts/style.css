@@ -7,6 +7,9 @@ img.pic{
 img.selfie{
     width: 300px;
     height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 p.description{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
