@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(250, 250, 15);
+}
+img.pic{
+    height:300px; 
+}
+img.selfie{
+    width: 300px;
+    height: 300px;
+}
+p.description{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-display: auto;
+    font-size: 25px;
+    width: 500px;
+    background-color: rgb(2, 255, 171);
+
+}
+a:hover{
+
+        font-size: 50px;
+
+}
+h1, h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-display: auto;
+    font-size: 50px;
+}
